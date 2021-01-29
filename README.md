@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
-- 💬 Ask me about **React, TypeScript**
+- 💬 Ask me about **React, TypeScript, JavaScript**
 
 - 📫 How to reach me **romankevich.law@gmail.com**
 
