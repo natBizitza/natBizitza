@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natalia</h1>
-<h3 align="center">A passionate frontend developer and lawyer from Russia</h3>
+<h3 align="center">A driven frontend developer and lawyer from Russia</h3>
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
