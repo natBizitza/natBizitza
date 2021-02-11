@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natalia</h1>
+<h1 align="center">Hey 👋, I'm Natalia</h1>
 <h3 align="center">A driven frontend developer and lawyer from Russia</h3>
 
 - 🌱 I’m currently learning **Data structures & algorithms and ML**
