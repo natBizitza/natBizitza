@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **romankevich.law@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny anymore.**
+- ⚡ Fun fact **I speak 5 natural languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
